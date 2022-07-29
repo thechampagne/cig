@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/thechampagne/cig/main/.github/assets/cig.png" width="400"/>
+<img src="https://raw.githubusercontent.com/thechampagne/cig/main/.github/assets/cig.png" width="500"/>
 </p>
 
 <p align="center">
